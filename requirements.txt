@@ -1,6 +1,6 @@
-
 snowflake-connector-python
 streamlit-folium
 folium
 pandas
 matplotlib
+seaborn
